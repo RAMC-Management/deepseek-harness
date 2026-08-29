@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "watch@claude-watch": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-watch": {
+      "source": {
+        "source": "github",
+        "repo": "RAMC-Management/claude-watch"
+      }
+    }
+  }
+}

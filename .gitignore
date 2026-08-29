@@ -20,7 +20,7 @@ oxlint-contract-*.ts
 tmp/
 .claude/commands/
 .claude/launch.json
-.claude/settings.json
+.claude/settings.local.json
 .vscode/
 .DS_Store
 .idea
