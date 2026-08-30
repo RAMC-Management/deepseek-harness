@@ -1,5 +1,7 @@
 # Twenty CRM local environment
 
+English | [中文](README.zh.md)
+
 `setup.sh` provisions and runs [RAMC-Management/twenty](https://github.com/RAMC-Management/twenty) inside a Claude Code remote container.
 
 This directory holds environment provisioning only. It builds nothing in this repository and no harness package depends on it.
